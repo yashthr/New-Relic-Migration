@@ -19,8 +19,7 @@ This Python script is designed to migrate dashboards from one New Relic account 
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/newrelic-dashboard-migration.git
-    cd newrelic-dashboard-migration
+    git clone https://github.com/yashthr/New-Relic-Migration.git
     ```
 
 2. **Install the required Python libraries**:
